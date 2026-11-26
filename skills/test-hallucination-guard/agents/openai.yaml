@@ -1,0 +1,5 @@
+interface:
+  display_name: "Test Hallucination Guard"
+  short_description: "Gate the claim \"tests pass\": exit-code evidence, a separate trap run, an isolated verifier"
+policy:
+  allow_implicit_invocation: false
